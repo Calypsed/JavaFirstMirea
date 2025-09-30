@@ -2,6 +2,12 @@ package ru.mirea.task2.opt1;
 
 
 public class Author {
+
+//    По диаграмме класса UML описывающей сущность Автор.
+//    Необходимо написать программу, которая состоит из двух классов Author и
+//    TestAuthor. Класс Author должен содержать реализацию методов,
+//    представленных на диаграмме класса на рисунке 2.4.
+
     private String name;
     private String email;
     private char gender;
